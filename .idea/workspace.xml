@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bc7e7fa-9586-4a71-a3c9-03f1206eb15b" name="Default Changelist" comment="" />
+    <list default="true" id="6bc7e7fa-9586-4a71-a3c9-03f1206eb15b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/basic/basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/basic/Basic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/basic/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/basic/arrayDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/basic/arrayTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/basic/control.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/basic/reload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/basic/reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/basic/shuixianhua.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/basic/string.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/basic/swapint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/basic/trancle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +26,13 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -17,6 +40,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WFb31Kck05ysrbH2uWZbmiFBCs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,11 +50,58 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.arrayTest">
+    <configuration name="arrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayDemo" />
+      <module name="basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayTest" />
+      <module name="basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse" />
+      <module name="basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string" />
+      <module name="basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trancle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trancle" />
+      <module name="basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.arrayTest" />
+        <item itemvalue="Application.trancle" />
+        <item itemvalue="Application.reverse" />
+        <item itemvalue="Application.arrayDemo" />
+        <item itemvalue="Application.string" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -52,17 +125,62 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578748086106</updated>
-      <workItem from="1578748091342" duration="1238000" />
+      <workItem from="1578748091342" duration="15770000" />
+      <workItem from="1578987140809" duration="5851000" />
     </task>
+    <task id="LOCAL-00001" summary="2020/1/12.1">
+      <created>1578839972645</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578839972645</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020/1/12.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020/1/12.1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="640" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578987008690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578987008690" />
+    <state x="505" y="41" key="CommitChangelistDialog2" timestamp="1578839970799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578839970799" />
+    <state width="1867" height="259" key="GridCell.Tab.0.bottom" timestamp="1578997756489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
+    <state width="1867" height="259" key="GridCell.Tab.0.center" timestamp="1578997756489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
+    <state width="1867" height="259" key="GridCell.Tab.0.left" timestamp="1578997756489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
+    <state width="1867" height="259" key="GridCell.Tab.0.right" timestamp="1578997756489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
     <state x="312" y="0" key="SettingsEditor" timestamp="1578754358014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578754358014" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578839982835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578839982835" />
+    <state x="161" y="57" key="new project wizard" timestamp="1578896682373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="57" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578896682373" />
   </component>
 </project>
