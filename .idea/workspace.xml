@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6bc7e7fa-9586-4a71-a3c9-03f1206eb15b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/basic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/Basic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/arrayDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/arrayTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/control.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/reload.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/reverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/shuixianhua.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/string.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/swapint.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/trancle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tool/Tool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tool/src/ArrayTestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tool/src/ArrayTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/DuoTaiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/ExtendsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/ExtendsDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/StaticDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/Basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/Basic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/Basic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/arrayDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/arrayDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/arrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/arrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/control.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/control.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/reload.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/reload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/shuixianhua.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/shuixianhua.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/string.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/swapint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/swapint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/trancle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/trancle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,37 +68,37 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.arrayTest">
-    <configuration name="arrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayDemo" />
+  <component name="RunManager" selected="Application.DuoTaiTest">
+    <configuration name="ArrayTestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTestDemo" />
+      <module name="Tool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuoTaiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuoTaiTest" />
       <module name="basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayTest" />
+    <configuration name="ExtendsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtendsDemo" />
       <module name="basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverse" />
+    <configuration name="ExtendsDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtendsDemo1" />
       <module name="basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string" />
-      <module name="basic" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="trancle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trancle" />
+    <configuration name="StaticDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticDemo" />
       <module name="basic" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arrayTest" />
-        <item itemvalue="Application.trancle" />
-        <item itemvalue="Application.reverse" />
-        <item itemvalue="Application.arrayDemo" />
-        <item itemvalue="Application.string" />
+        <item itemvalue="Application.DuoTaiTest" />
+        <item itemvalue="Application.ExtendsDemo1" />
+        <item itemvalue="Application.ExtendsDemo" />
+        <item itemvalue="Application.StaticDemo" />
+        <item itemvalue="Application.ArrayTestDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -150,25 +161,41 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578987008690" />
+    <state x="531" y="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579319597193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1579319597193" />
+    <state x="621" y="97" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579325218256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="621" y="97" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1579325218256" />
     <state x="505" y="41" key="CommitChangelistDialog2" timestamp="1578839970799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="505" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578839970799" />
-    <state width="1867" height="259" key="GridCell.Tab.0.bottom" timestamp="1578997756489">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="653" y="115" key="FileChooserDialogImpl" timestamp="1579324956146">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="653" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579324956146" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1579365593845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579365593845" />
     <state width="1867" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
-    <state width="1867" height="259" key="GridCell.Tab.0.center" timestamp="1578997756489">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1579365593845">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579365593845" />
     <state width="1867" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
-    <state width="1867" height="259" key="GridCell.Tab.0.left" timestamp="1578997756489">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1579365593845">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579365593845" />
     <state width="1867" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
-    <state width="1867" height="259" key="GridCell.Tab.0.right" timestamp="1578997756489">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1579365593845">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579365593845" />
     <state width="1867" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
     <state x="312" y="0" key="SettingsEditor" timestamp="1578754358014">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -178,9 +205,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578839982835" />
-    <state x="161" y="57" key="new project wizard" timestamp="1578896682373">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="115" y="0" key="new project wizard" timestamp="1579323665974">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579323665974" />
     <state x="161" y="57" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578896682373" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1579329865520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579329865520" />
   </component>
 </project>

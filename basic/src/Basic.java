@@ -2,6 +2,7 @@ import java.math.BigInteger;
 import java.nio.channels.NonWritableChannelException;
 import java.rmi.Naming;
 import java.util.Arrays;
+import java.util.Date;
 import java.util.Scanner;
 
 /**
@@ -223,5 +224,10 @@ class People{
         //name="lisi";//静态方法不是调用静态变量，因为静态方法和静态变量随着类的加载而加载，而非成员变量
         //依赖于对象的建立，此时，还没有对象存在。
         //因此，成员变量和成员方法时是使用于类的，而不是对象。
+    }
+}
+class TestData{
+    public static void main(String[] args) {
+        System.out.println(new Date().toString());
     }
 }
