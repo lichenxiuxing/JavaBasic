@@ -5,20 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bc7e7fa-9586-4a71-a3c9-03f1206eb15b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day_10/src/interfaceUse/InterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_10/src/interfaceUse/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_11/day_11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_11/src/ObjectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_11/src/OverrideStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_11/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_12_String/day_12_String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_12_String/src/String1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_12_String/src/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_12_String/src/StringJudge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_12_String/src/StringOther.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_12_String/src/StringSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_12_String/src/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_12_String/src/StringTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_StringBuffer/day13_StringBuffer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_StringBuffer/src/ArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_StringBuffer/src/QQTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_StringBuffer/src/StringBufferAppend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_StringBuffer/src/StringBufferConstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_StringBuffer/src/StringBufferDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_StringBuffer/src/StringBufferTransferString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_StringBuffer/src/StringTransferInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14_Regex_/day_14_Regex_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14_Regex_/src/BigIntegerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14_Regex_/src/DataDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14_Regex_/src/DateFormatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14_Regex_/src/MathRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14_Regex_/src/MyYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14_Regex_/src/RegexMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14_Regex_/src/RegexMatch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14_Regex_/src/RegexRepalce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14_Regex_/src/RegexSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14_Regex_/src/SystemCurrent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15_collections/day_15_collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15_collections/src/CollectionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15_collections/src/CollectionDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15_collections/src/CollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15_collections/src/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15_collections/src/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15_collections/src/ListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15_collections/src/ListIteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day13_StringBuffer/ArraysTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day13_StringBuffer/StringBufferAppend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day13_StringBuffer/StringBufferConstract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day13_StringBuffer/StringBufferDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day13_StringBuffer/StringBufferTransferString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_14_Regex_/BigIntegerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_14_Regex_/DataDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_14_Regex_/DateFormatDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_14_Regex_/MathRandom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_14_Regex_/MyYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_14_Regex_/RegexMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_14_Regex_/RegexMatch1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_14_Regex_/RegexRepalce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_14_Regex_/RegexSplit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_14_Regex_/SystemCurrent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_15_collections/CollectionDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_15_collections/CollectionDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_15_collections/CollectionsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_15_collections/IteratorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_15_collections/ListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_15_collections/ListDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_15_collections/ListIteratorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day_15_collections/META-INF/day_15_collections.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -65,50 +101,51 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.StringOther">
-    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDemo" />
-      <module name="day_12_String" />
+  <component name="RunManager" selected="Application.ListIteratorDemo">
+    <configuration name="CollectionDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionDemo3" />
+      <module name="day_15_collections" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringJudge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringJudge" />
-      <module name="day_12_String" />
+    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IteratorDemo" />
+      <module name="day_15_collections" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringOther" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringOther" />
-      <module name="day_12_String" />
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListDemo" />
+      <module name="day_15_collections" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringSearch" />
-      <module name="day_12_String" />
+    <configuration name="ListDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListDemo2" />
+      <module name="day_15_collections" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTransfer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTransfer" />
-      <module name="day_12_String" />
+    <configuration name="ListIteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListIteratorDemo" />
+      <module name="day_15_collections" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringOther" />
-        <item itemvalue="Application.StringTransfer" />
-        <item itemvalue="Application.StringDemo" />
-        <item itemvalue="Application.StringSearch" />
-        <item itemvalue="Application.StringJudge" />
+        <item itemvalue="Application.ListIteratorDemo" />
+        <item itemvalue="Application.ListDemo2" />
+        <item itemvalue="Application.ListDemo" />
+        <item itemvalue="Application.IteratorDemo" />
+        <item itemvalue="Application.CollectionDemo3" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +173,7 @@
       <updated>1578748086106</updated>
       <workItem from="1578748091342" duration="15770000" />
       <workItem from="1578987140809" duration="5851000" />
-      <workItem from="1579588580777" duration="6462000" />
+      <workItem from="1579588580777" duration="29502000" />
     </task>
     <task id="LOCAL-00001" summary="2020/1/12.1">
       <created>1578839972645</created>
@@ -159,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579515062204</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2020/1/21.1">
+      <created>1579616641867</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579616641867</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +213,8 @@
     <MESSAGE value="2020/1/12.1" />
     <MESSAGE value="2020/1/19.1" />
     <MESSAGE value="2020/1/20.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020/1/20.1" />
+    <MESSAGE value="2020/1/21.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020/1/21.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="25" key="#Project_Structure" timestamp="1579503803192">
@@ -192,34 +237,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="621" y="97" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1579325218256" />
-    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1579515058506">
+    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1579616631537">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579515058506" />
+    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579616631537" />
     <state x="505" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578839970799" />
     <state x="653" y="115" key="FileChooserDialogImpl" timestamp="1579324956146">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="653" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579324956146" />
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1579595802111">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1579714405262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579595802111" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579714405262" />
     <state width="1867" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
-    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1579595802111">
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1579714405261">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579595802111" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579714405261" />
     <state width="1867" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
-    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1579595802111">
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1579714405261">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579595802111" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579714405261" />
     <state width="1867" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
-    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1579595802111">
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1579714405262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579595802111" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579714405262" />
     <state width="1867" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
     <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1579593847847">
       <screen x="0" y="0" width="1366" height="728" />
@@ -241,19 +286,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578754358014" />
-    <state x="322" y="132" key="Vcs.Push.Dialog.v2" timestamp="1579521464877">
+    <state x="322" y="132" key="Vcs.Push.Dialog.v2" timestamp="1579616638625">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="322" y="132" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579521464877" />
+    <state x="322" y="132" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579616638625" />
     <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578839982835" />
     <state x="482" y="144" key="chooseDestDirectoryDialog" timestamp="1579504488336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="482" y="144" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1579504488336" />
-    <state x="115" y="0" key="new project wizard" timestamp="1579588690500">
+    <state x="115" y="0" key="new project wizard" timestamp="1579705022323">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579588690500" />
+    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579705022323" />
     <state x="161" y="57" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578896682373" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1579514821000">
       <screen x="0" y="0" width="1366" height="728" />
