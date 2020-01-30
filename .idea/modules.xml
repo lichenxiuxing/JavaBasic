@@ -10,6 +10,12 @@
       <module fileurl="file://$PROJECT_DIR$/day_12_String/day_12_String.iml" filepath="$PROJECT_DIR$/day_12_String/day_12_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_14_Regex_/day_14_Regex_.iml" filepath="$PROJECT_DIR$/day_14_Regex_/day_14_Regex_.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_15_collections/day_15_collections.iml" filepath="$PROJECT_DIR$/day_15_collections/day_15_collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_16_collection2/day_16_collection2.iml" filepath="$PROJECT_DIR$/day_16_collection2/day_16_collection2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_17_set/day_17_set.iml" filepath="$PROJECT_DIR$/day_17_set/day_17_set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_18_map/day_18_map.iml" filepath="$PROJECT_DIR$/day_18_map/day_18_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_19_IO1/day_19_IO1.iml" filepath="$PROJECT_DIR$/day_19_IO1/day_19_IO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_20_IO2/day_20_IO2.iml" filepath="$PROJECT_DIR$/day_20_IO2/day_20_IO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_21_IO3/day_21_IO3.iml" filepath="$PROJECT_DIR$/day_21_IO3/day_21_IO3.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_9/day_9.iml" filepath="$PROJECT_DIR$/day_9/day_9.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaBasic.iml" filepath="$PROJECT_DIR$/javaBasic.iml" />
     </modules>
