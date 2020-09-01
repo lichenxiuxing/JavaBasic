@@ -5,114 +5,78 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bc7e7fa-9586-4a71-a3c9-03f1206eb15b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/TestStatic/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/TestStatic/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/TestStatic/Son1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/TestStatic/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_21_IO3/src/PropertiesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_21_IO3/src/PropertiesDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_21_IO3/src/PropertiesDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/day_23_Thread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/JoinDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/MyRunnableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/SafeCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/SleepDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/ThreadDaemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/ThreadSleep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/ThreadStop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/ThreadStopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/TicketDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/TicketTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/YieldThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_23_Thread/src/YieldThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/day_24_Thread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/DieLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/DieLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/NiMingThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/SellTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/SellTicketsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/StudentDemo1/GetThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/StudentDemo1/SetThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/StudentDemo1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/StudentDemo1/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/StudentDemo2/GetThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/StudentDemo2/SetThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/StudentDemo2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/StudentDemo2/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/StudentDemo3/GetThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/StudentDemo3/SetThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/StudentDemo3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/StudentDemo3/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/factoryMethod/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/factoryMethod/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/factoryMethod/CatFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/factoryMethod/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/factoryMethod/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/factoryMethod/DogFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/factoryMethod/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/simpleFactory/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/simpleFactory/AnimalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/simpleFactory/AnimalFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/simpleFactory/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/simpleFactory/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/singleModel/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/singleModel/RuntimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/singleModel/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/design_model/singleModel/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/thread_group/ExecutorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/thread_group/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/thread_group/ThreadGroupDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/thread_pool/CallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/thread_pool/ExecutorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/thread_pool/MyCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/thread_pool/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_24_Thread/src/time/TimerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_26_Inter/day_26_Inter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_26_Inter/src/InetAddressDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_26_Inter/src/Tcp/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_26_Inter/src/Tcp/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_26_Inter/src/udp/ReceiveThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_26_Inter/src/udp/ReciveDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_26_Inter/src/udp/SendDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_26_Inter/src/udp/SendThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_26_Inter/src/udp/TalkRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_26_Inter/src/udp/UdpReciveDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_26_Inter/src/udp/UdpSendDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_26_Inter/src/udp/udp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/day_27_reflect.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/ConstructorDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/FieldDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/GenericDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/MethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/ReflectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/Tool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/ToolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/decorateDemo/Decorate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/decorateDemo/MusicDecorate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/decorateDemo/MyPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/decorateDemo/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/decorateDemo/PhoneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/decorateDemo/RingDecoratePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/dynamicProxy/MyInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/dynamicProxy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/dynamicProxy/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/dynamicProxy/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/reflectDemo/ReflectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/reflectDemo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/reflectDemo/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/reflectDemo/class.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_27_reflect/src/reflectDemo/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/JUC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/ZY_mianshi/VotileYanZheng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/day_01/AtomicDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/day_01/CallableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/day_01/CountDownLatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/day_01/ReadWriteLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/day_01/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/teacherMa/DirtyRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/teacherMa/ReinLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/CallabelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/CollectionSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/ConditionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/ListExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/SaleTicketDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/SemaPhoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/Single2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/ThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUC/src/zhouYang/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tool/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/backage/Back0_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionAndMap/collectionAndMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionAndMap/src/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionAndMap/src/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionAndMap/src/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8/java8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8/src/lambda/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8/src/lambda/MethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8/src/stream/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/jvm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/StackOverflowErrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/TestIPP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/zhouYang/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test/Bid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test/NewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test/Pinduo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test/TestOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_23_Thread/src/JoinDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_23_Thread/src/JoinDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_24_Thread/src/DieLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_24_Thread/src/DieLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_24_Thread/src/thread_pool/ExecutorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_24_Thread/src/thread_pool/ExecutorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/Fu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/Fu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/Zi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/Zi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_15_collections/META-INF/day_15_collections.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_16_collection2/META-INF/day_16_collection2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_17_set/set/SetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day_17_set/set/SetDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_18_map/META-INF/day_18_map.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_19_IO1/META-INF/day_19_IO1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_21_IO3/META-INF/day_21_IO3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_23_Thread/JoinDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day_23_Thread/JoinDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_23_Thread/META-INF/day_23_Thread.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_23_Thread/TicketDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day_23_Thread/TicketDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_24_Thread/DieLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day_24_Thread/DieLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_24_Thread/META-INF/day_24_Thread.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_24_Thread/thread_pool/ExecutorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day_24_Thread/thread_pool/ExecutorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_26_Inter/META-INF/day_26_Inter.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +88,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javaBasic" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -139,6 +106,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="H:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="H:/Maven/apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -158,40 +133,34 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/day_10/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day_24_Thread/src/design_model/factoryMethod" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dataStructureAndAlgorithm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="decorateDemo" />
+      <recent name="udp" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\javaDir\javaBasic\day_24_Thread\src\design_model\factoryMethod" />
       <recent name="H:\javaDir\javaBasic\day_24_Thread\src\thread_pool" />
       <recent name="H:\javaDir\javaBasic\day_24_Thread\src\StudentDemo3" />
       <recent name="H:\javaDir\javaBasic\day_24_Thread\src\StudentDemo2" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="decorateDemo" />
-      <recent name="udp" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.PhoneTest">
-    <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GenericDemo" />
-      <module name="day_27_reflect" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PhoneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decorateDemo.PhoneTest" />
-      <module name="day_27_reflect" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Back0_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backage.Back0_1" />
+      <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decorateDemo.*" />
+          <option name="PATTERN" value="backage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +168,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reflectDemo.ReflectDemo" />
-      <module name="day_27_reflect" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Tool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
+      <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reflectDemo.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dynamicProxy.Test" />
-      <module name="day_27_reflect" />
+    <configuration name="NewTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.NewTest" />
+      <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dynamicProxy.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,20 +201,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToolDemo" />
-      <module name="day_27_reflect" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Solution" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.NewTest" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Back0_1" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PhoneTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ToolDemo" />
-        <item itemvalue="Application.GenericDemo" />
-        <item itemvalue="Application.ReflectDemo (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Back0_1" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.NewTest" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +265,41 @@
       <workItem from="1580476459422" duration="13839000" />
       <workItem from="1580537494469" duration="12931000" />
       <workItem from="1580715969194" duration="12368000" />
-      <workItem from="1580740868629" duration="3223000" />
+      <workItem from="1580740868629" duration="3832000" />
+      <workItem from="1582219802855" duration="100000" />
+      <workItem from="1582219991332" duration="603000" />
+      <workItem from="1582699588795" duration="663000" />
+      <workItem from="1582706483026" duration="601000" />
+      <workItem from="1582807999750" duration="607000" />
+      <workItem from="1582880024633" duration="647000" />
+      <workItem from="1582882504838" duration="24932000" />
+      <workItem from="1583320706662" duration="696000" />
+      <workItem from="1583326970797" duration="4075000" />
+      <workItem from="1583551962884" duration="28003000" />
+      <workItem from="1584590465224" duration="116000" />
+      <workItem from="1587219120289" duration="6468000" />
+      <workItem from="1587609096653" duration="595000" />
+      <workItem from="1587699771582" duration="12773000" />
+      <workItem from="1588055949888" duration="250000" />
+      <workItem from="1588507129954" duration="6222000" />
+      <workItem from="1593954438723" duration="27003000" />
+      <workItem from="1594460926032" duration="36452000" />
+      <workItem from="1594793658158" duration="5111000" />
+      <workItem from="1595032188390" duration="3251000" />
+      <workItem from="1595136443921" duration="1891000" />
+      <workItem from="1595223321742" duration="17881000" />
+      <workItem from="1595511876275" duration="5117000" />
+      <workItem from="1595680399720" duration="4623000" />
+      <workItem from="1596004940613" duration="7803000" />
+      <workItem from="1596269990145" duration="681000" />
+      <workItem from="1596365309836" duration="13481000" />
+      <workItem from="1596861711972" duration="6798000" />
+      <workItem from="1597142615541" duration="7076000" />
+      <workItem from="1597372925091" duration="1382000" />
+      <workItem from="1597560811087" duration="11533000" />
+      <workItem from="1597924698198" duration="17829000" />
+      <workItem from="1598344512052" duration="14310000" />
+      <workItem from="1598658333905" duration="884000" />
     </task>
     <task id="LOCAL-00001" summary="2020/1/12.1">
       <created>1578839972645</created>
@@ -320,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580381457746</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2020/2/4">
+      <created>1580827304675</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580827304675</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,109 +364,90 @@
     <MESSAGE value="2020/1/21.1" />
     <MESSAGE value="2020/1/22.1" />
     <MESSAGE value="2020/1/30.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020/1/30.1" />
+    <MESSAGE value="2020/2/4" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020/2/4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="25" key="#Project_Structure" timestamp="1579503803192">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1598170907598">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1579503803192" />
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1580744705800">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1598170907598" />
+    <state x="228" y="122" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1594181817264">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1580744705800" />
-    <state x="455" y="172" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580046758924">
+    <state x="228" y="122" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1366.728@0.0.1366.728" timestamp="1594181817264" />
+    <state x="653" y="115" key="FileChooserDialogImpl" timestamp="1598923978108">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="455" y="172" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1580046758924" />
-    <state x="640" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578987008690" />
-    <state x="531" y="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579319597193">
+    <state x="653" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598923978108" />
+    <state width="1323" height="213" key="GridCell.Tab.0.bottom" timestamp="1598498420115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="531" y="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1579319597193" />
-    <state x="398" y="71" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1579765209762">
+    <state width="1323" height="213" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598498420115" />
+    <state width="1323" height="213" key="GridCell.Tab.0.center" timestamp="1598498420115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="398" y="71" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1579765209761" />
-    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580744317315">
+    <state width="1323" height="213" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598498420115" />
+    <state width="1323" height="213" key="GridCell.Tab.0.left" timestamp="1598498420115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1580744317315" />
-    <state x="621" y="97" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579325218256">
+    <state width="1323" height="213" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598498420115" />
+    <state width="1323" height="213" key="GridCell.Tab.0.right" timestamp="1598498420115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="621" y="97" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1579325218256" />
-    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1580381447694">
+    <state width="1323" height="213" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598498420115" />
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1598498420115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580381447694" />
-    <state x="505" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578839970799" />
-    <state x="653" y="115" key="FileChooserDialogImpl" timestamp="1579324956146">
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598498420115" />
+    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1598498420115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="653" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579324956146" />
-    <state width="1323" height="237" key="GridCell.Tab.0.bottom" timestamp="1580744873581">
+    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598498420115" />
+    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1598498420115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="237" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580744873581" />
-    <state width="1867" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
-    <state width="1323" height="237" key="GridCell.Tab.0.center" timestamp="1580744873581">
+    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598498420115" />
+    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1598498420115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="237" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580744873581" />
-    <state width="1867" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
-    <state width="1323" height="237" key="GridCell.Tab.0.left" timestamp="1580744873581">
+    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598498420115" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1598924010756">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="237" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580744873581" />
-    <state width="1867" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
-    <state width="1323" height="237" key="GridCell.Tab.0.right" timestamp="1580744873581">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598924010756" />
+    <state x="477" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594309570336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="237" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580744873581" />
-    <state width="1867" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578997756489" />
-    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1580391095397">
+    <state x="477" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1594309570336" />
+    <state x="57" y="68" key="new project wizard" timestamp="1594464741023">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580391095397" />
-    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1580391095397">
+    <state x="57" y="68" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1594464741023" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1594351519540">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580391095397" />
-    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1580391095397">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580391095397" />
-    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1580391095397">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580391095397" />
-    <state x="222" y="0" key="SettingsEditor" timestamp="1580051114607">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="222" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580051114607" />
-    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578754358014" />
-    <state x="322" y="132" key="Vcs.Push.Dialog.v2" timestamp="1580381459817">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="322" y="132" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580381459817" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578839982835" />
-    <state x="482" y="144" key="chooseDestDirectoryDialog" timestamp="1579504488336">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="482" y="144" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1579504488336" />
-    <state x="115" y="0" key="new project wizard" timestamp="1580721448432">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580721448432" />
-    <state x="161" y="57" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578896682373" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1580721730904">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580721730904" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580234507566">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580234507566" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1594351519540" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/src/test/Pinduo.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/src/test/Main.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaBasic$Main.ic" NAME="Main Coverage Results" MODIFIED="1598167354683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -18,13 +18,23 @@ public class DieLock extends Thread {
         if (flag) {
             synchronized (OBJECTA) {
                 System.out.println("if a");
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
                 synchronized (OBJECTB) {
-                    System.out.println("if b");
+                    System.out.println("else b");
                 }
             }
         } else {
             synchronized (OBJECTB) {
-                System.out.println("else b");
+                System.out.println("if b");
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
                 synchronized (OBJECTA) {
                     System.out.println("else a");
                 }

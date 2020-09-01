@@ -13,13 +13,15 @@ public class JoinDemo {
         myThread.setName("first");
         myThread1.setName("second");
         myThread2.setName("third");
+        myThread.start();
         try {
             //只有此线程执行完毕后，其后的其它线程才会执行
+            //真实意义是主线程释放了执行资格和执行权，只有该线程执行完毕后才能重新掌握
+            //其他线程并未等待
             myThread.join();
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        myThread.start();
         myThread1.start();
         myThread2.start();
     }

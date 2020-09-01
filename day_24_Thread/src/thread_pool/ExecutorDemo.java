@@ -12,10 +12,13 @@ import java.util.concurrent.Executors;
 public class ExecutorDemo {
     public static void main(String[] args) {
         //public static ExecutorService newFixedThreadPool(int i);
+        //Excutors是工具类，用于更加方便地创建线程池
         ExecutorService executorService= Executors.newFixedThreadPool(2);
         // public void submit(Runnable r);
+        //向线程池中的线程提交任务，会自动开启线程
         executorService.submit(new MyRunnable());
         executorService.submit(new MyRunnable());
+        //关闭线程池
         executorService.shutdown();
     }
 }
